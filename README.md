@@ -51,6 +51,10 @@
 - работа с базами данных через консольное управление (Cygwin, Git, PostgreSQL, SQL);
 - основы автоматизации тестирования (Python, JavaScript, PyCharm).
 
+### *Портфолио*
+
+[Репозиторий с портфолио на GitHub][3]
+
 ### *Личные качества*
 
 - аналитическое мышление и внимательность к деталям;
@@ -67,3 +71,4 @@
 
 [1]: https://practicum.yandex.ru
 [2]: https://www.smtu.ru
+[3]: https://github.com/igorpolykov/portfolio
